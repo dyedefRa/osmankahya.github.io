@@ -1,1 +1,2 @@
-# takelogy.com
+# osmankahya.github.io
+
