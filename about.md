@@ -10,4 +10,4 @@ Selam ben Osman. Bu blogu, dökümanlarımı yayınlamak ve üretkenliğimi artt
 
 Aşağıdaki adreslerden veya doğrudan bana ulaştığınız takdirde en kısa sürede cevap vermeye çalışacağım.
 
-[Mail](osman.kahya@windowslive.com) - [Twitter](https://twitter.com/osmnkhya) - [LinkedIn](https://linkedin.com/in/osmankahya).
+[LinkedIn](https://linkedin.com/in/osmankahya) - [Twitter](https://twitter.com/osmnkhya)
