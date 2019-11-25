@@ -2,11 +2,11 @@
 layout: about
 ---
 
-# About the blog
+# Hakkımda
 
-In this blog, I frequently write about the scripts that I create, either to automate stuff on my computer, or to improve my productivity. I am a Data Scientist by profession, and so I also write posts related to that field.
+Selam ben Osman. Bu blogu, dökümanlarımı yayınlamak ve üretkenliğimi arttıracak yazılar paylaşmak için kullanıyorum.
 
-# Contact
+# İletişim
 
-If you want to reach out, feel free to contact me via [Twitter](https://twitter.com/sainathadapa) or [LinkedIn](https://linkedin.com/in/sainathadapa).
-
+Adreslerden veya doğrudan bana ulaştığınız takdirde en kısa sürede cevap vermeye çalışacağım.
+[Mail](osman.kahya@windowslive.com) [Twitter](https://twitter.com/osmnkhya) [LinkedIn](https://linkedin.com/in/osmankahya).

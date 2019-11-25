@@ -10,7 +10,7 @@ title: Tags
 
     <ul class="list">
         {% assign pages_list = tag[1] %}
-        {% for post in pages_list %}
+        {% for post in pages_list %}    
         <li>
             <a class="black-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
