@@ -1,2 +1,0 @@
-# osmankahya.github.io
-
