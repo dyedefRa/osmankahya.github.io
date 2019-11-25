@@ -1,30 +1,30 @@
-title: 'Sainath Adapa | Blog'
-author: Sainath Adapa
+title: 'Osman Kahya | Blog'
+author: Osman Kahya
 email:
-url: https://sainathadapa.github.io
+url: https://osmankahya.github.io
 description:
-favicon: "./android-icon-48x48.png" # set the favicon of the site 
+favicon: "./" # set the favicon of the site 
 
 show_excerpts: false # set to true to show excerpts on the homepage
   
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
-  avatar_url: "images/profile.jpg" # avatar in about page
+  avatar_url: "images/profile.png" # avatar in about page
   about_you:
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
   # generate social links in about page.
   social_links:
-    twitter: sainathadapa
-    github:  sainathadapa
+    twitter: osmnkhya
+    github:  osmankahya
     rss: RSS
     # dribbble: 
     #facebook: huangyz0918
     # flickr:   
     # instagram: 
-    linkedin: sainathadapa
+    linkedin: osmankahya
     # pinterest: 
     # youtube: 
     # youtube_channel: 
